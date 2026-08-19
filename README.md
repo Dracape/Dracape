@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm into native & modern software development that resists inertia, and doesn't let familiar legacy software get in the way of change.
+I'm into native & modern software development & UX that resists inertia, and doesn't let familiar legacy software get in the way of change.
 
 
 ## 🌐 Socials:
